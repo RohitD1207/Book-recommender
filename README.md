@@ -138,9 +138,3 @@ Rohit D
 B.Tech. in Computer Science & Engineering  
 Specialization: Decision Science & Machine Learning  
 Lovely Professional University
-
-```
-
----
-
-Let me know if you want a short 1-page PDF version for submissions or presentations too—I can make it clean and print-ready.
