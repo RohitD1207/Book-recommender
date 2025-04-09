@@ -1,8 +1,3 @@
-Oof, say no more—here’s the **corporate, uni-professor-safe, LinkedIn-friendly™️** version of your README. It’s clean, formal, and says *“I am a serious engineer”* without being painfully dry.
-
----
-
-```markdown
 # A Different Book System
 
 A modular and extensible book recommendation system that combines collaborative filtering and content-based filtering techniques, developed using Python and Streamlit.
